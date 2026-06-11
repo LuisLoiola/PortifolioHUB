@@ -27,10 +27,6 @@ O **PortfolioHUB** é uma plataforma centralizada para gerenciar e exibir portf�
 * Finalização de todas as etapas de integração com apoio do Gemini.
 * Preparação e lançamento do PortfolioHUB em ambiente de produção para uso real.
 
-### 6. Apresentação Final
-* **Vídeo no YouTube:** [Insira o link aqui]
-* Discussão sobre as soluções criadas e os desafios superados no projeto.
-
 ---
 
 ## 🛠️ Ferramentas Utilizadas
